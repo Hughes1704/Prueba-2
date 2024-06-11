@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "226692557452",
+    "project_id": "citas-medicas-edea4",
+    "storage_bucket": "citas-medicas-edea4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226692557452:android:cc229a9f4898a9e38c69a9",
+        "android_client_info": {
+          "package_name": "com.example.citas_medicas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhw20kanAY7XOvmuinoX-VgGocy69l7EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
